@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\chapter2">
+      <UniqueIdentifier>{347fc519-f5b7-4710-8ac9-1b80caf54f12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter3">
+      <UniqueIdentifier>{efd7d816-5369-482a-b34d-3702d0af43a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter4">
+      <UniqueIdentifier>{9d22b896-5537-4674-9869-2e2aed1e0d55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="code2.4.cpp">
+      <Filter>소스 파일\chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="code2.5.cpp">
+      <Filter>소스 파일\chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="code2_6.cpp">
+      <Filter>소스 파일\chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="code2.7.cpp">
+      <Filter>소스 파일\chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="code2.8.cpp">
+      <Filter>소스 파일\chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="code2.9.cpp">
+      <Filter>소스 파일\chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="code2.10.cpp">
+      <Filter>소스 파일\chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.1.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.2.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.3.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.4.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.10.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.11.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.12.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.13.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.14.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.15.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.16.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.17.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.18.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.20.cpp">
+      <Filter>소스 파일\chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.1.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.2.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.3.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.4.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.5.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.6.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.7.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.8.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.9.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.10.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.11.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.12.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.13.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.14.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.15.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.16.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.17.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="code4.18.cpp">
+      <Filter>소스 파일\chapter4</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
