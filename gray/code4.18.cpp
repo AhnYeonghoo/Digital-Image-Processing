@@ -3,7 +3,7 @@
 using namespace cv;
 using namespace std;
 
-int main()
+int maincode4_18()
 {
 	Mat img1 = Mat::zeros(Size(400, 200), CV_8UC1);
 	Mat img2 = Mat::zeros(Size(400, 200), CV_8UC1);
